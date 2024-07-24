@@ -12,4 +12,6 @@ git/github演習
 
 # 試しに別ページへのリンク
 
-[git memo](\git-memo)
+[ソフトウェア工学で学んだことまとめ](\software)
+[gitのおおまかな使い方](\git-memo)
+[gitのコマンド一覧](\git-cheat)
