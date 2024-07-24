@@ -9,3 +9,7 @@ title: "ソフトウェア工学　2024"
 # ソフトウェア工学 2024
 
 git/github演習
+
+# 試しに別ページへのリンク
+
+{git memo} (\docs\git-memo.md)
