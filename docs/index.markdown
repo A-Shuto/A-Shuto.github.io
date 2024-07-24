@@ -12,4 +12,4 @@ git/github演習
 
 # 試しに別ページへのリンク
 
-{git memo} (\docs\git-memo.md)
+[git memo] (\docs\git-memo.md)
