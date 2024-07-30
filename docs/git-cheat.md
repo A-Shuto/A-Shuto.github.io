@@ -5,10 +5,10 @@ permalink: /git-cheat
 ---
 # gitの使い方
 # 1.ホストの設定
-　以下のようにしてホストを設定する．メールアドレスなどは「a@b.c」などのよう実在しないものでも構わない
-  git config –global  
-  git config –global user.name yourname  
-  git config –global user.email yourname@example.com
+　以下のようにしてホストを設定する．メールアドレスなどは「a@b.c」などのよう実在しないものでも構わない  
+  $git config –global  
+  $git config –global user.name yourname  
+  $git config –global user.email yourname@example.com
 
 # 2.gitの設定
 　以下のようにgitを初期化，設定開始する  
