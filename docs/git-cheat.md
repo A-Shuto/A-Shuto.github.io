@@ -36,6 +36,6 @@ permalink: /git-cheat
 　以下のコマンドでリモートレポジトリと同期させる(プッシュ)  
 　$git pull
 
-[トップページ](\docs)  
+[トップページ](\docs\)  
 [ソフトウェア工学で学んだことまとめ](\software)  
 [gitの概要](\git-memo)  
